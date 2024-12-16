@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 interface Props {
   hand: "rock" | "paper" | "scissor";
   handAi: number | undefined;
